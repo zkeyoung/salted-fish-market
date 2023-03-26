@@ -1,0 +1,15 @@
+.app {
+  height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.body {
+  flex: 1;
+}
+
+.bottom {
+  flex: 0;
+  border-top: solid 1px var(--adm-border-color);
+}

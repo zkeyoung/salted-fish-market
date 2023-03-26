@@ -1,0 +1,13 @@
+.searchBar {
+  padding: 10px 10px;
+  display: flex;
+  width: 95%;
+  background-color: #ffffff;
+}
+.filterContainer {
+  padding: 20px 0px 20px 20px;
+}
+
+.GoodsContainer {
+  padding: 0px 10px;
+}

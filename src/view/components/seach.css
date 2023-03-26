@@ -1,0 +1,17 @@
+.search-bar {
+  padding: 12px;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  /* position: sticky; */
+  z-index: 999999;
+  /* top: 0;
+  left: 0; */
+}
+.search-bar-left {
+  flex: auto;
+}
+.search-bar-right {
+  flex: none;
+  margin-left: 12px;
+}

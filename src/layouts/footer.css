@@ -1,0 +1,6 @@
+.tab-bar {
+  background-color: "#ffffff";
+  position: 'sticky';
+  bottom: 0;
+  border-top: 'solid 1px rgb(250, 251, 252)';
+}

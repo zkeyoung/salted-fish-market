@@ -1,0 +1,62 @@
+:root:root {
+  --adm-font-size-main: 13px;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, blinkmacsystemfont, 'Helvetica Neue',
+  helvetica, segoe ui, arial, roboto, 'PingFang SC', 'miui',
+  'Hiragino Sans GB', 'Microsoft Yahei', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-color: rgb(250, 251, 252);
+  color: "000000d9";
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 38px;
+  color: "000000d9"; 
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 32px;
+  color: "000000d9"; 
+}
+
+h3 {
+  font-size: 18px;
+  line-height: 2;
+  color: "000000d9"; 
+}
+
+h4 {
+  font-size: 16px;
+  line-height: 24px;
+  color: "000000d9"; 
+}
+
+h5 {
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 500;
+}
+
+p {
+  font-size: 14px;
+  line-height: 2;
+  color: '#000000d9';
+}
+
+ref {
+  font-size: 12px;
+  line-height: 20px;
+  color: #00000073;
+}
